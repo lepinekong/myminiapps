@@ -152,4 +152,4 @@ Pomodoro: function [][
     Countdown 00:25:00 "Pomodoro";
 ]
 
-probe system/script/path
+probe system/options/path
