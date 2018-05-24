@@ -29,12 +29,17 @@ Article: [
 
         .title: {Usage}
         .text: {Type one of command examples:
-        
+
             - Countdown 00:25:00
             - Countdown 00:25:00 "Pomodoro"
             - Pomodoro        
         }
-        .image: https://i.imgur.com/uKb1Iyr.png        
+    
+    ]
+
+    Screen-copies: [
+        .title: {Screen Copies}
+        .image: https://i.imgur.com/uKb1Iyr.png 
     ]
 ]
 
