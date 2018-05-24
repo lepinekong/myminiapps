@@ -13,7 +13,7 @@ Article: [
         .Published-Url: http://myminiapps.space/countdown.red
     ]    
     
-    index: [
+    Pre-Requisites: [
 
         .title: {Pre-requisite}
         .text: {
@@ -23,13 +23,18 @@ Article: [
         .code: {
             do read http://myminiapps.space/countdown.red
         }
-        .text: {then type one of command examples:
+    ]
+
+    Usage: [
+
+        .title: {Usage}
+        .text: {Type one of command examples:
+        
             - Countdown 00:25:00
             - Countdown 00:25:00 "Pomodoro"
             - Pomodoro        
         }
-        .image: https://i.imgur.com/uKb1Iyr.png
-
+        .image: https://i.imgur.com/uKb1Iyr.png        
     ]
 ]
 

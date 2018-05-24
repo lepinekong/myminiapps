@@ -22,7 +22,11 @@
 ```
 
 
-then type one of command examples:
+
+### Usage
+
+Type one of command examples:
+
 - Countdown 00:25:00
 - Countdown 00:25:00 "Pomodoro"
 - Pomodoro
