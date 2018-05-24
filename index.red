@@ -14,9 +14,9 @@ Article: [
     Title: {Index of myMiniApps.space}
 
     Productivity-Apps: [
-        .title: {Productivity miniApps} 
+        .title: {Productivity - myMiniApps.space} 
         .links: [
-            {Pomodoro / Countdown apps} %./countdown/
+            {Pomodoro / Countdown} %./countdown/
 
         ]    
     ]

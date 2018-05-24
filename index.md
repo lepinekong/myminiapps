@@ -2,7 +2,7 @@
 # Index of myMiniApps.space
 
 
-### Productivity miniApps
+### Productivity - myMiniApps.space
 
-- [Pomodoro / Countdown apps](./countdown/)
+- [Pomodoro / Countdown](./countdown/)
                         
