@@ -152,4 +152,12 @@ Pomodoro: function [][
     Countdown 00:25:00 "Pomodoro";
 ]
 
-probe system/options/path
+if not value? '.system [
+    print {
+        Command examples:
+        
+        - Countdown 00:25:00
+        - Countdown 00:25:00 "Pomodoro"
+        - Pomodoro
+    }
+]
