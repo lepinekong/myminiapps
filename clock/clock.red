@@ -1,11 +1,14 @@
 Comment {
+
 Redlang: https://red-lang.org
 Tutorials: [
     https://dev.to/lepinekong/red-for-hopeless-programmers---part-i-3g0
     https://dev.to/lepinekong/red-for-hopeless-programmers---part-ii-258
 ] 
+
 Demo-Instruction: {
-    - Script below Red[] can be pasted directly in Redlang Console (1 Mb download https://www.red-lang.org/p/download.html) 
+    - Script below Red^[^] can be pasted directly in Redlang Console (1 Mb download https://www.red-lang.org/p/download.html) 
+
     - if you just want to see demo without downloading, type in Red console:
 
         do read https://gist.githubusercontent.com/lepinekong/08021f2b8ecdd3e0dc09685ef0b0c03f/raw/c7b41adc9a3815f77c4bca815af35b598f920bc1/.system.user.apps.countdown.red
@@ -13,19 +16,7 @@ Demo-Instruction: {
     - If you want to execute locally instead of :
         do .system.user.apps.countdown.red
     rather execute:
-        do read .system.user.apps.countdown.red ; otherwise Red doesn't like comment above Red[] header
-    
-}
-Compile-Instruction: {
-    Note that you can just run in interpreted mode (See Demo-Instruction) but if you want an exe:
-    1°) you must use latest build red-30mar18-be7ff3a9.exe on https://www.red-lang.org/p/download.html
-    2°) you must remove comment above Red [] due to unknown compiler behavior
-    3°) for Windows you must use DOS Commandline and type:
-        c:\your.red.folder\red.exe -r -e -t Windows "c:\your.project.folder\.system.user.apps.countdown.red"
-}
-Url: https://gist.github.com/lepinekong/08021f2b8ecdd3e0dc09685ef0b0c03f
-SHA256: #{
-0A9F71BC4E4DF8A168DE025750F0115F92FF12160542A6C5A66AE2622DC74B5A
+        do read .system.user.apps.countdown.red ; otherwise Red doesn't like comment above Red^[^] header
 }
 
 }
