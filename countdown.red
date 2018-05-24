@@ -155,7 +155,7 @@ Pomodoro: function [][
 if not value? '.system [
     print {
         Command examples:
-        
+        - Countdown ; 1 min by default
         - Countdown 00:25:00
         - Countdown 00:25:00 "Pomodoro"
         - Pomodoro
