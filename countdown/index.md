@@ -10,7 +10,7 @@
 ### Pre-requisite
 
 
-- Download [red-lang.org](http://red-lang.org) (only 1 Mb)
+- Download [red-lang on red-lang.org](https://www.red-lang.org/p/download.html) (only 1 Mb)
 or
 - Paste this oneliner in Powershell:
 
