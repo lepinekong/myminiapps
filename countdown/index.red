@@ -22,7 +22,11 @@ Article: [
         }
         .code: {
             do read http://myminiapps.space/countdown.red
+            or
+            do read http://myminiapps.space/pomodoro.red
         }
+        
+
     ]
 
     Usage: [
