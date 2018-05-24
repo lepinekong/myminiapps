@@ -27,5 +27,5 @@ then type one of command examples:
 - Countdown 00:25:00 "Pomodoro"
 - Pomodoro
 
-![https://i.imgur.com/y6YDxCx.png](https://i.imgur.com/y6YDxCx.png)
+![https://i.imgur.com/uKb1Iyr.png](https://i.imgur.com/uKb1Iyr.png)
                     

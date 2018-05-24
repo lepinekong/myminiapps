@@ -28,7 +28,7 @@ Article: [
             - Countdown 00:25:00 "Pomodoro"
             - Pomodoro        
         }
-        .image: https://i.imgur.com/y6YDxCx.png
+        .image: https://i.imgur.com/uKb1Iyr.png
 
     ]
 ]
