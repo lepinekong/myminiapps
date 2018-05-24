@@ -1,8 +1,8 @@
 
-# Index of c:\rebol\.system.user\.data\.activities\myMiniApps\.github
+# Index of myMiniApps.space
 
 
-### Productivity-Apps
+### Productivity miniApps
 
 - [Pomodoro / Countdown apps](./countdown/)
                         

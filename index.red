@@ -1,5 +1,5 @@
 Red [
-Title: "c:\rebol\.system.user\.data\.activities\myMiniApps\.github"
+Title: "myMiniApps.space"
             ]
 
 Source: [
@@ -11,10 +11,10 @@ Source: [
             
 Article: [
 
-    Title: {Index of c:\rebol\.system.user\.data\.activities\myMiniApps\.github}
+    Title: {Index of myMiniApps.space}
 
     Productivity-Apps: [
-        .title: {Productivity-Apps} 
+        .title: {Productivity miniApps} 
         .links: [
             {Pomodoro / Countdown apps} %./countdown/
 
