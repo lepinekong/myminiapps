@@ -11,13 +11,27 @@
 
 
 - Download [red-lang.org](http://red-lang.org) (only 1 Mb)
-- Run it and type in its console: 
+or
+- Paste this oneliner in Powershell:
 
 
 
 ```
 
+New-Item -ItemType Directory -Force -Path C:\red;(New-Object System.Net.WebClient).DownloadFile('https://static.red-lang.org/dl/win/red-063.exe','c:\red\red.exe');Start-Process -Filepath 'c:\red\red.exe'            
+        
+```
+
+
+
+
+```
+Then run and type in red console: 
             do read http://myminiapps.space/countdown.red
+
+            or
+
+            do read http://myminiapps.space/pomodoro.red
         
 ```
 
