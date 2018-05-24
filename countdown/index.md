@@ -23,10 +23,12 @@ New-Item -ItemType Directory -Force -Path C:\red;(New-Object System.Net.WebClien
 ```
 
 
+Then run and type in red console: 
 
 
 ```
-Then run and type in red console: 
+
+
             do read http://myminiapps.space/countdown.red
 
             or

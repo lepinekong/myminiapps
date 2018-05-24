@@ -24,7 +24,9 @@ Article: [
         .code: {
 New-Item -ItemType Directory -Force -Path C:\red;(New-Object System.Net.WebClient).DownloadFile('https://static.red-lang.org/dl/win/red-063.exe','c:\red\red.exe');Start-Process -Filepath 'c:\red\red.exe'            
         }
-        .code: {Then run and type in red console: 
+        .text: {Then run and type in red console: }
+        .code: {
+
             do read http://myminiapps.space/countdown.red
 
             or
