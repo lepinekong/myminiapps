@@ -5,7 +5,7 @@ Red [
 do read http://redlang.red/google-piecharts.red
 do read http://redlang.red/parse-text-data.red
 
-piechart:  function ['.data [word! block! unset!] /clipboard ][
+piechart:  function ['.data [word! block! unset! string!] /title .title /clipboard ][
 
     switch/default type?/word get/any '.data [
 
@@ -27,6 +27,8 @@ piechart:  function ['.data [word! block! unset!] /clipboard ][
                     label1 10 
                     "label 2" 20
                 ]
+                - piechart/title [Salary 5000 Financials 1000] "My Revenues"
+                - piechart/title "My Revenues" [Salary 5000 Financials 1000]
                 - piechart/clipboard ; for reading block of data from clipboard with or without bracket
                 - For passing data variable, embed variable with () for example:
                     .data: [label1 10 "label 2" 20]
@@ -40,8 +42,14 @@ piechart:  function ['.data [word! block! unset!] /clipboard ][
             ]
 
         ]
-        block! [
-            .google-pie-chart .data
+        block! string! word! [
+
+            either title [
+                .google-pie-chart/title .data .title
+            ][
+                .google-pie-chart .data
+            ]
+            
         ]
     ] [
 
@@ -58,9 +66,11 @@ piechart:  function ['.data [word! block! unset!] /clipboard ][
     ]
 ]
 
-piechart [
-    "Adsense Revenue" 300
-    "Sponsors" 500
-    "Gifts" 50
-    "Others" 58
-]
+piechart/title [Salary 5000 Financials 1000] "My Revenues"
+
+; piechart [
+;     "Adsense Revenue" 300
+;     "Sponsors" 500
+;     "Gifts" 50
+;     "Others" 58
+; ] 
