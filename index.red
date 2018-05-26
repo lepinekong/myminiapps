@@ -14,9 +14,17 @@ Article: [
     Title: {Index of myMiniApps.space}
 
     Productivity-Apps: [
-        .title: {Productivity - myMiniApps.space} 
+        .title: {Productivity Apps - myMiniApps.space} 
         .links: [
             {Pomodoro / Countdown} %./countdown/
+
+        ]    
+    ]
+
+    Stats-Apps: [
+        .title: {Stats Apps - myMiniApps.space} 
+        .links: [
+            {Piechart} %./piechart/
 
         ]    
     ]

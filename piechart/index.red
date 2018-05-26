@@ -10,7 +10,9 @@ Article: [
         .title: {ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)}
         .text: {[http://myminiapps.space/piechart/index.red](https://github.com/lepinekong/myminiapps/blob/master/piechart/index.red)
         }
-        .Published-Url: http://myminiapps.space/piechart.red
+        .app-url: http://myminiapps.space/piechart.red
+        .doc-Url: http://myminiapps.space/piechart
+        
     ]    
     
     Pre-Requisites: [
