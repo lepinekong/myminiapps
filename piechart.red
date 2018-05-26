@@ -79,19 +79,20 @@ piechart:  function ['.data [word! block! unset! string!] /title .title /clipboa
 
 if not value? '.system [
     print {
-        Command examples:
+Command examples:
 
-        - piechart ; for help
-        - piechart [label1 10 "label 2" 20] ; for one line data block
-        - piechart [ ; for multiple lines data block
-            label1 10 
-            "label 2" 20
-        ]
-        - piechart/title [Salary 5000 Financials 1000] "My Revenues"
-        - piechart/title "My Revenues" [Salary 5000 Financials 1000]
-        - piechart/clipboard ; for string of data from clipboard without bracket
-        - For passing data variable, embed variable with () for example:
-            .data: [label1 10 "label 2" 20]
-            piechart (.data)  
+- piechart ; for help
+- piechart [label1 10 "label 2" 20] ; for one line data block
+- piechart [ ; for multiple lines data block
+    label1 10 
+    "label 2" 20
+]
+- piechart/title [Salary 5000 Financials 1000] "My Revenues"
+- piechart/title "My Revenues" [Salary 5000 Financials 1000]
+- piechart/clipboard ; for string of data from clipboard without bracket
+- For passing data variable, embed variable with () for example:
+    .data: [label1 10 "label 2" 20]
+    piechart (.data)  
     }
 ]
+
