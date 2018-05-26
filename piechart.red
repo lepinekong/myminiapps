@@ -1,3 +1,4 @@
+
 Red [
     Title: "piechart.red"
     Build: 1.0.0.0
@@ -67,15 +68,6 @@ piechart:  function ['.data [word! block! unset! string!] /title .title /clipboa
     ]
 ]
 
-;piechart/title [Salary 5000 Financials 1000] "My Revenues"
-
-; piechart [
-;     "Adsense Revenue" 300
-;     "Sponsors" 500
-;     "Gifts" 50
-;     "Others" 58
-; ] 
-
 
 if not value? '.system [
     print {
@@ -95,4 +87,3 @@ Command examples:
     piechart (.data)  
     }
 ]
-
