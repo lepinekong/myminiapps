@@ -11,10 +11,10 @@ Source: [
             
 Article: [
 
-    Title: {Index of myMiniApps.space}
+    Title: {myMiniApps.space}
 
     Productivity-Apps: [
-        .title: {Productivity Apps - myMiniApps.space} 
+        .title: {Productivity Apps} 
         .links: [
             {Pomodoro / Countdown} %./countdown/
 
@@ -22,7 +22,7 @@ Article: [
     ]
 
     Stats-Apps: [
-        .title: {Stats Apps - myMiniApps.space} 
+        .title: {Stats Apps} 
         .links: [
             {Piechart} %./piechart/
 

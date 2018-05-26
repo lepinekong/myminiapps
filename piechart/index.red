@@ -59,7 +59,7 @@ New-Item -ItemType Directory -Force -Path C:\red;(New-Object System.Net.WebClien
 
     Screen-copies: [
         .title: {Screen Copies}
-        .image: https://i.imgur.com/uKb1Iyr.png 
+        .image: https://i.imgur.com/aIWrtIo.png
     ]
 ]
 

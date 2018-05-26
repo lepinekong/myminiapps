@@ -1,13 +1,13 @@
 
-# Index of myMiniApps.space
+# myMiniApps.space
 
 
-### Productivity Apps - myMiniApps.space
+### Productivity Apps
 
 - [Pomodoro / Countdown](./countdown/)
                         
 
-### Stats Apps - myMiniApps.space
+### Stats Apps
 
 - [Piechart](./piechart/)
                         
