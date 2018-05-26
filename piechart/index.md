@@ -56,5 +56,5 @@ piechart (.data)
 
 ### Screen Copies
 
-![https://i.imgur.com/uKb1Iyr.png](https://i.imgur.com/uKb1Iyr.png)
+![https://i.imgur.com/aIWrtIo.png](https://i.imgur.com/aIWrtIo.png)
                     
