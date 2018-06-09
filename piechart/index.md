@@ -1,6 +1,11 @@
 
-# Piechart - Miniapps.Space
+# Miniapps.Space
 
+
+### Piechart
+
+![https://i.imgur.com/aIWrtIo.png](https://i.imgur.com/aIWrtIo.png)
+                    
 
 ### ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)
 
@@ -53,8 +58,3 @@ label1 10
 .data: [label1 10 "label 2" 20]
 piechart (.data)   
 
-
-### Screen Copies
-
-![https://i.imgur.com/aIWrtIo.png](https://i.imgur.com/aIWrtIo.png)
-                    
