@@ -21,6 +21,13 @@ Article: [
         ]    
     ]
 
+    Travel-Apps: [
+        .title: {Travel Apps} 
+        .links: [
+            {Weather} %./doc/weather/
+        ]    
+    ]    
+
     Stats-Apps: [
         .title: {Stats Apps} 
         .links: [

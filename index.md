@@ -4,12 +4,17 @@
 
 ### Productivity Apps
 
-- [Pomodoro / Countdown](./countdown/)
+- [Pomodoro / Countdown](./doc/countdown/)
                         
 - [Jotnote](./doc/jotnote/)
                         
 
+### Travel Apps
+
+- [Weather](./doc/weather/)
+                        
+
 ### Stats Apps
 
-- [Piechart](./piechart/)
+- [Piechart](./doc/piechart/)
                         
