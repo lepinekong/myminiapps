@@ -1,11 +1,16 @@
 
-# index
+# Miniapps.Space
 
 
 ### ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)
 
 [http://myminiapps.space/doc/jotnote/index.red](https://github.com/lepinekong/myminiapps/blob/master/doc/jotnote/index.red)
 
+
+### Jotnote
+
+![https://i.imgur.com/a4vpErj.png](https://i.imgur.com/a4vpErj.png)
+                    
 
 ### Pre-requisite
 
@@ -23,22 +28,25 @@ New-Item -ItemType Directory -Force -Path C:\red;(New-Object System.Net.WebClien
 ```
 
 
-Then run and type in red console: 
+Then run and type in red console any of these commands: 
 
 
 ```
 
 
             do read http://myminiapps.space/jotnote.red
-
-            or
-
             do read http://myminiapps.space/jotnote
-
-            or
-
             do read http://myminiapps.space/note            
         
 ```
 
+
+
+### Usage
+
+Type one of command examples:
+
+- Jot
+- Jotnote
+- note
 
