@@ -235,6 +235,10 @@ Jot-Note: :.app.jot.note ; alias
 Jot: :.app.jot.note ; alias
 Note: :.app.jot.note ; alias
 
-Jot
+if not value? '.system [
+    Jot
+]
+
+
 
 

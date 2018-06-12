@@ -9,7 +9,7 @@
 
 ### ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)
 
-[http://myminiapps.space/countdown/index.red](https://github.com/lepinekong/myminiapps/blob/master/countdown/index.red)
+[http://myminiapps.space/doc/countdown/index.red](https://github.com/lepinekong/myminiapps/blob/master/doc/countdown/index.red)
 
 
 ### Pre-requisite
@@ -28,17 +28,16 @@ New-Item -ItemType Directory -Force -Path C:\red;(New-Object System.Net.WebClien
 ```
 
 
-Then run and type in red console: 
+Then run and type in red console any of these commands: 
 
 
 ```
 
 
             do read http://myminiapps.space/countdown.red
-
-            or
-
+            do read http://myminiapps.space/countdown
             do read http://myminiapps.space/pomodoro.red
+            do read http://myminiapps.space/pomodoro
         
 ```
 

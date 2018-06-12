@@ -14,7 +14,7 @@ Article: [
 
     Source: [
         .title: {ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)}
-        .text: {[http://myminiapps.space/countdown/index.red](https://github.com/lepinekong/myminiapps/blob/master/countdown/index.red)
+        .text: {[http://myminiapps.space/doc/countdown/index.red](https://github.com/lepinekong/myminiapps/blob/master/doc/countdown/index.red)
         }
         .Published-Url: http://myminiapps.space/countdown.red
     ]    
@@ -32,14 +32,13 @@ Article: [
         .code: {
 New-Item -ItemType Directory -Force -Path C:\red;(New-Object System.Net.WebClient).DownloadFile('https://static.red-lang.org/dl/win/red-063.exe','c:\red\red.exe');Start-Process -Filepath 'c:\red\red.exe'            
         }
-        .text: {Then run and type in red console: }
+        .text: {Then run and type in red console any of these commands: }
         .code: {
 
             do read http://myminiapps.space/countdown.red
-
-            or
-
+            do read http://myminiapps.space/countdown
             do read http://myminiapps.space/pomodoro.red
+            do read http://myminiapps.space/pomodoro
         }
         
 
