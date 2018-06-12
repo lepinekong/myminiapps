@@ -6,6 +6,8 @@
 
 - [Pomodoro / Countdown](./countdown/)
                         
+- [Jotnote](./doc/jotnote/)
+                        
 
 ### Stats Apps
 
