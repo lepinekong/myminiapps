@@ -4,7 +4,13 @@ Red [
 
 Article: [
 
-    Title: {Countdown - Miniapps.Space}
+    Title: {Miniapps.Space}
+
+    Screen-copies: [
+        .title: {Countdown}
+        .image: https://i.imgur.com/uKb1Iyr.png 
+    ]    
+        
 
     Source: [
         .title: {ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)}
@@ -12,7 +18,9 @@ Article: [
         }
         .Published-Url: http://myminiapps.space/countdown.red
     ]    
-    
+
+
+
     Pre-Requisites: [
 
         .title: {Pre-requisite}
@@ -49,10 +57,6 @@ New-Item -ItemType Directory -Force -Path C:\red;(New-Object System.Net.WebClien
     
     ]
 
-    Screen-copies: [
-        .title: {Screen Copies}
-        .image: https://i.imgur.com/uKb1Iyr.png 
-    ]
 ]
 
 do read http://readablehumanformat.com/lib.red

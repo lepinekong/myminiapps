@@ -1,6 +1,6 @@
 Red [
-Title: "myMiniApps.space"
-            ]
+    Title: "myMiniApps.space"
+]
 
 Source: [
 .title: {ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)}
@@ -16,7 +16,7 @@ Article: [
     Productivity-Apps: [
         .title: {Productivity Apps} 
         .links: [
-            {Pomodoro / Countdown} %./countdown/
+            {Pomodoro / Countdown} %./doc/countdown/
             {Jotnote} %./doc/jotnote/
         ]    
     ]
@@ -24,7 +24,7 @@ Article: [
     Stats-Apps: [
         .title: {Stats Apps} 
         .links: [
-            {Piechart} %./piechart/
+            {Piechart} %./doc/piechart/
 
         ]    
     ]
