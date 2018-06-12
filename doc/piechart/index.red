@@ -14,7 +14,7 @@ Article: [
 
     Source: [
         .title: {ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)}
-        .text: {[http://myminiapps.space/piechart/index.read](https://github.com/lepinekong/myminiapps/blob/master/piechart/index.read)
+        .text: {[http://myminiapps.space/doc/piechart/index.read](https://github.com/lepinekong/myminiapps/blob/master/doc/piechart/index.read)
         }
         .app-url: http://myminiapps.space/piechart.red
         .doc-Url: http://myminiapps.space/piechart

@@ -9,7 +9,7 @@
 
 ### ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)
 
-[http://myminiapps.space/piechart/index.red](https://github.com/lepinekong/myminiapps/blob/master/piechart/index.red)
+[http://myminiapps.space/doc/piechart/index.read](https://github.com/lepinekong/myminiapps/blob/master/doc/piechart/index.read)
 
 
 ### Pre-requisite
