@@ -17,7 +17,7 @@ Article: [
         .title: {Productivity Apps} 
         .links: [
             {Pomodoro / Countdown} %./countdown/
-
+            {Jotnote} %./doc/jotnote/
         ]    
     ]
 
